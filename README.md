@@ -8,6 +8,6 @@ My hobbies:
 2. Hiking
 3. Music
 
-[Google.com](www.google.com)
+[Google](www.google.com)
 
 Last edited 30/09/2026
